@@ -1,10 +1,8 @@
-This is a great idea. A well-structured `README.md` not only helps you document your progress but also makes the project "portfolio-ready" if you want to show it to others.
-
----
-
 # ESP32 4-Servo IR Control System
 
 A versatile robotics foundation using an **ESP32** to control four 180-degree servos via **Infrared (IR) remote**. This project features custom toggle logic, a status LED, and staggered movement sequences for smooth operation.
+
+![](615451109_2799032603761708_7940064599074037647_n.jpg)
 
 ## 🚀 Features
 
